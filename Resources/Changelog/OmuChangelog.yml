@@ -3659,3 +3659,9 @@ Entries:
         training manual to see what you know.
   id: 470
   time: '2026-05-03T11:48:05.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Add
+      message: Ported DV's tweaks to the epsilon alert level.
+  id: 471
+  time: '2026-05-04T10:15:51.0000000+00:00'
