@@ -3785,3 +3785,11 @@ Entries:
       message: Removed vox raider's death acidifier
   id: 486
   time: '2026-05-09T21:04:25.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: >-
+        Slasher no longer has the ability to possess others, and is no longer
+        immune to breathing.
+  id: 487
+  time: '2026-05-09T21:12:32.0000000+00:00'
