@@ -3962,3 +3962,9 @@ Entries:
       message: Some Thaven moods were tweaked to fit in better in wording.
   id: 502
   time: '2026-05-10T04:51:41.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Fix
+      message: Fixed Betrayal knife causing a server crash.
+  id: 503
+  time: '2026-05-10T11:59:43.0000000+00:00'
