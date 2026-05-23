@@ -4174,3 +4174,9 @@ Entries:
       message: Station pets that attack hostiles will no longer attack station turrets
   id: 531
   time: '2026-05-23T21:50:49.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: Changed the RPD in CE's locker to a unique experimental version
+  id: 532
+  time: '2026-05-23T21:52:42.0000000+00:00'
