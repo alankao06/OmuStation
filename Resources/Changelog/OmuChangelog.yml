@@ -4356,3 +4356,9 @@ Entries:
         see them more often now.
   id: 557
   time: '2026-06-06T22:44:04.0000000+00:00'
+- author: archee1
+  changes:
+    - type: Fix
+      message: Tidemind now correctly mentions assistants instead of passengers.
+  id: 558
+  time: '2026-06-06T22:52:42.0000000+00:00'
