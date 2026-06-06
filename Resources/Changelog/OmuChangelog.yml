@@ -4362,3 +4362,9 @@ Entries:
       message: Tidemind now correctly mentions assistants instead of passengers.
   id: 558
   time: '2026-06-06T22:52:42.0000000+00:00'
+- author: Mariki
+  changes:
+    - type: Remove
+      message: Shrapnel payloads from the security techfab
+  id: 559
+  time: '2026-06-06T23:10:34.0000000+00:00'
