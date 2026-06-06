@@ -4368,3 +4368,11 @@ Entries:
       message: Shrapnel payloads from the security techfab
   id: 559
   time: '2026-06-06T23:10:34.0000000+00:00'
+- author: MarkerWicker
+  changes:
+    - type: Fix
+      message: >-
+        Thieves now receive the objective to steal a Cybernetic Beast's mantle.
+        This objective is rarer than other item-steal objectives.
+  id: 560
+  time: '2026-06-06T23:12:40.0000000+00:00'
