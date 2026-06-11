@@ -317,8 +317,10 @@
   components:
   - type: Sprite
     layers:
-    - state: default
+    - state: silver
     - state: idcommandmaid
+  - type: Item
+    heldPrefix: silver
   - type: PresetIdCard
     job: CommandMaid
 
