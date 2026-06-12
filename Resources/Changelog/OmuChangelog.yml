@@ -4448,3 +4448,9 @@ Entries:
         since speciesOverride will turn them human anyway.
   id: 570
   time: '2026-06-11T01:26:50.0000000+00:00'
+- author: feistyfedora
+  changes:
+    - type: Fix
+      message: Harpies can blink loudly now.
+  id: 571
+  time: '2026-06-11T21:50:01.0000000+00:00'
